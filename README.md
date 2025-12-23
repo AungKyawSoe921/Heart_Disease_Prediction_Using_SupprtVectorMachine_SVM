@@ -1,0 +1,2 @@
+# Heart_Disease_Prediction_Using_SupprtVectorMachine_SVM
+Details and Deep Understand of SVM
